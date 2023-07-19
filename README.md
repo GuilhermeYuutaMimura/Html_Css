@@ -1,2 +1,3 @@
 # Html_Css
- Repository to study in the future
+Repositório para estudo no **futuro** 
+*Espero não sofrer muito* 
